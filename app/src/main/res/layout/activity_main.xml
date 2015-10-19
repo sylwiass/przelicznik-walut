@@ -24,7 +24,7 @@
             android:layout_span="1"
             android:layout_weight="1"
             android:textAppearance="?android:attr/textAppearanceLarge"
-            android:hint="Wpisz kwotę w USD"
+            android:hint="Wpisz kwotę w dolarach"
             android:imeOptions="actionDone"
             android:inputType="number"
             android:ems="10"
